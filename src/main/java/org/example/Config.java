@@ -4,7 +4,7 @@ import org.json.JSONObject;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-
+//homework2.1
 public class Config {
 
     private static Config instance = null;

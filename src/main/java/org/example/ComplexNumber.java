@@ -1,5 +1,5 @@
 package org.example;
-
+//homework 2.3
 public class ComplexNumber {
     private double real;
     private double imaginary;
